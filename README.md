@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá, eu sou Abner Henrique 😃
+- 🎓 Atualmente estou cursando Engenharia da Computação no IFSP.
+- 💻 Estou trabalhando em um projeto de reconhecimento de placas veiculares.
 <!--
 **AbnerHS/AbnerHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
