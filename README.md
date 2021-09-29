@@ -1,5 +1,5 @@
 ### Olá, eu sou Abner Henrique 😃
-- 🎓 Atualmente estou cursando Engenharia da Computação no IFSP.
+- 🎓 Atualmente estou cursando Engenharia da Computação no IFSP em Birigui.
 - 💻 Estou trabalhando em um projeto de reconhecimento de placas veiculares.
 
 <div>
