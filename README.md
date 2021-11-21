@@ -1,6 +1,7 @@
 ### Olá, eu sou Abner Henrique 😃
 - 🎓 Atualmente estou cursando Engenharia da Computação no IFSP em Birigui.
 - 💻 Estou trabalhando em um projeto de reconhecimento de placas veiculares.
+- 🔯 Aprendendo e desenvolvendo aplicativos mobile em React Native.
 
 <div>
   <a href="https://github.com/AbnerHS">
