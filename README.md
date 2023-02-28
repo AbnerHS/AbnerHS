@@ -2,7 +2,6 @@
 - 🎓 Atualmente estou cursando Engenharia da Computação no IFSP em Birigui.
 - 💻 Estou trabalhando em um projeto de reconhecimento de placas veiculares em Python, OpenCV e YOLO.
 - 🌐 Estudando ReactJS, NextJS e NodeJS e React Native.
-- 👨‍💻 Procurando estágio na área de desenvolvimento web front-end, back-end, ou fullstack.
 
 
 <div>
