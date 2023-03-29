@@ -1,7 +1,9 @@
 ### Olá, eu sou Abner Henrique 😃
-- 🎓 Atualmente estou cursando Engenharia da Computação no IFSP em Birigui.
-- 💻 Estou trabalhando em um projeto de reconhecimento de placas veiculares em Python, OpenCV e YOLO.
-- 🌐 Estudando ReactJS, NextJS e NodeJS e React Native.
+- ⌨️ Trabalho atualmente com Desenvolvimento Web com Java, JavaScript, MySQL e React Native, com foco em BPM (Business Process Management).
+- 🎓 Formado em Engenharia da Computação pelo IFSP.
+- 💻 TCC de Reconhecimento de Placas Veiculares em Tempo Real com Python, OpenCV e YOLO.
+- 🌐 Estudando Front-End e Mobile com ReactJS, NextJS e React Native.
+- ☕ Estudando Back-End com Java e Spring Boot;
 
 
 <div>
