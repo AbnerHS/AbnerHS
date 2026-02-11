@@ -49,8 +49,8 @@ Engenheiro da Computação com foco em desenvolvimento Full-Stack. Atualmente, f
 
 <div>
   <a href="https://github.com/AbnerHS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerhs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerhs&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=AbnerHS&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbnerHS&show_icons=true&theme=dracula"/>
   </a>
 </div>
 
